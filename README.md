@@ -8,10 +8,10 @@
 
 | Name | Department | School |
 | :--- | :--- | :--- |
+| **Sanjay Rajjan** | Computer Science | CNS |
 | **Puranjay Prashanth** | Electrical and Computer Engineering | Cockrell |
 | **Vivaan Moharir** | Statistics and Data Science | CNS |
 | **Saksham Agarwal** | Mathematics | CNS |
-| **Sanjay Rajjan** | Computer Science | CNS |
 | **Tejas Dasa** | Petroleum Engineering | Cockrell |
 
 ---
